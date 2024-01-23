@@ -1,0 +1,37 @@
+      a{
+
+        margin-right: 25px;
+        text-decoration: none;
+        color: white;
+        font-size: 22px;
+        font-family:Arial;
+        font-weight: bold;
+
+      }
+      p{
+        background-color: darkgreen;
+        padding:15px;
+        text-align:right;
+        border-top: 3px solid gold;
+        border-bottom: 3px solid gold;
+       }
+       img{
+        border-radius: 50%;
+        display:block;
+        width: 50px;
+        margin:auto;
+        border:3px darkgreen;
+       }
+       table{
+        border:1px solid darkgreen
+       }
+       td{
+        border:1px solid darkgreen;
+        padding: 5px;
+       }
+       .HOMESTYLE:hover{
+        background-color: aquamarine;
+        color: aqua;
+        font-weight: 10px ;
+       }
+       
